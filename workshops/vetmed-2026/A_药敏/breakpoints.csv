@@ -1,0 +1,11 @@
+drug,drug_name,class,S_le,I_range,R_ge,criterion,note
+AMP,ampicillin,penicillins,8,16,32,CLSI,
+CTX,cefotaxime,extended-spectrum cephalosporins,1,2,4,CLSI,
+MEM,meropenem,carbapenems,1,2,4,CLSI,
+GEN,gentamicin,aminoglycosides,2,4,8,CLSI,
+CIP,ciprofloxacin,fluoroquinolones,0.25,0.5,1,CLSI,
+TET,tetracycline,tetracyclines,4,8,16,CLSI,
+DOX,doxycycline,tetracyclines,4,8,16,CLSI,
+SXT,trimethoprim-sulfamethoxazole,folate pathway inhibitors,2,,4,CLSI,MIC expressed as trimethoprim component
+FFC,florfenicol,phenicols,,,,ECOFF,"no clinical breakpoint; WT <=16, non-wild-type >16"
+CST,colistin,polymyxins,,<=2 (I),4,CLSI,no susceptible category

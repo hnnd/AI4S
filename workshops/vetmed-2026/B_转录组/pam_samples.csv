@@ -1,0 +1,9 @@
+sample,group,hpi,pig_donor,RIN
+Mock_1,Mock,24,D1,8.9
+Mock_2,Mock,24,D2,8.7
+Mock_3,Mock,24,D3,8.7
+Mock_4,Mock,24,D4,9.4
+PRRSV_1,PRRSV,24,D1,8.8
+PRRSV_2,PRRSV,24,D2,8.7
+PRRSV_3,PRRSV,24,D3,8.4
+PRRSV_4,PRRSV,24,D4,9.0
